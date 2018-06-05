@@ -32,7 +32,6 @@ Temperature
 Light
 Water level
 
-
 ###### Version 1.0
 The board will turn on/off the pump with a simple switch, it will be visible the status of the pump through a led.
 
